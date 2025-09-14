@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Descripción
-(Página minimalista para suscribirse a un newsletter, explica los beneficios, tienen un formulario, botón azul, una leyenda que  tiene confidencialidad. 
+Página minimalista para suscribirse a un newsletter, explica los beneficios, tienen un formulario, botón azul, una leyenda que  tiene confidencialidad. Algo sencillito 😊
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [https://github.com/brenda21g/Newsletter]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Deploy: [ https://brenda21g.github.io/Newsletter/]
 ---
 
 ## 📝 Reflexión
