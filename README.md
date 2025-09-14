@@ -20,7 +20,7 @@
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: [https://github.com/brenda21g/Newsletter]  
 Deploy: [Pega aquí el deploy de GitHub Pages]
 ---
 
